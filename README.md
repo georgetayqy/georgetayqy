@@ -76,7 +76,7 @@ Here are some of the languages/frameworks that I have learnt/am learning:
 
 Connect with me via my socials!
 
-[![DockerHub Profile](https://img.shields.io/badge/Docker-asdfghjklxd-blue)](https://hub.docker.com/u/asdfghjklxd)
+[![DockerHub Profile](https://img.shields.io/badge/Docker-georgetayqy-blue)](https://hub.docker.com/u/georgetayqy)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-George-lightgrey)](https://www.linkedin.com/in/george-t-a819aa185/)
 
 ## Current Projects
